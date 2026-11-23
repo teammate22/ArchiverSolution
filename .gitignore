@@ -1,0 +1,10 @@
+# Папки сборки и кэш Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Временные файлы демонстрации и пользовательского состояния
+demo_workspace/
+.ipynb_checkpoints/

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Archiver.Core/Archiver.Core.csproj" />
+  <Project Path="Archiver.WinForms/Archiver.WinForms.csproj" />
+</Solution>
